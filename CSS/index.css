@@ -1,0 +1,102 @@
+#AbtBtn {
+	font-family: sans-serif;
+	height: 50px;
+	width: 110px;
+	font-size: 25px;
+	color: red;
+	background-color: transparent;
+	border-color: red;
+}
+
+#AbtBtn:hover {
+	color: white;
+	background-color: red;
+}
+
+#PhotoBtn {
+	font-family: sans-serif;
+	height: 50px; 
+	width: 110px;
+	font-size: 25px;
+	color: red;
+	background-color: transparent;
+	border-color: red;
+}
+
+#PhotoBtn:hover {
+	color: white;
+	background-color: red;
+}
+
+#LinkBtn {
+	font-family: sans-serif;
+	height: 50px;
+	width: 110px;
+	font-size: 25px;
+	color: red;
+	background-color: transparent;
+	border-color: red;
+}
+
+#LinkBtn:hover {
+	color: white;
+	background-color: red;
+}
+
+#Header_Buttons {
+	position: center;
+	margin: 0px 0px 0px 525px;
+}
+
+#Title {
+	font-family: sans-serif;
+	margin: 0px 0px 0px 600px;
+}
+
+#Change {
+	font-size: 100px;
+	color: orange;
+	position: center;
+	background-color: white;
+	margin: 400px auto auto 440px;
+}
+
+#S1 {
+	font-size: 100px;
+	color: orange;
+	position: center;
+	background-color: orange;
+	margin: 700px auto auto 413px;
+}
+
+#S2 {
+	font-size: 100px;
+	color: orange;
+	position: center;
+	background-color: orange;
+	margin: 1000px auto auto 393px;
+}
+
+#S3 {
+	font-size: 100px;
+	color: orange;
+	position: center;
+	background-color: orange;
+	margin: 1300px auto auto 525px;
+}
+
+#S4 {
+	font-size: 100px;
+	color: orange;
+	position: center;
+	background-color: orange;
+	margin: 1600px auto auto 600px;
+}
+
+#S5 {
+	font-size: 100px;
+	color: orange;
+	position: center;
+	background-color: orange;
+	margin: 1900px auto auto 500px;
+}
