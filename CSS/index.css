@@ -3,14 +3,14 @@
 	height: 50px;
 	width: 110px;
 	font-size: 25px;
-	color: red;
+	color: orange;
 	background-color: transparent;
-	border-color: red;
+	border-color: transparent;
 }
 
 #AbtBtn:hover {
-	color: white;
-	background-color: red;
+	color: orange;
+	background-color: orange;
 }
 
 #PhotoBtn {
@@ -18,14 +18,14 @@
 	height: 50px; 
 	width: 110px;
 	font-size: 25px;
-	color: red;
+	color: orange;
 	background-color: transparent;
-	border-color: red;
+	border-color: transparent;
 }
 
 #PhotoBtn:hover {
 	color: white;
-	background-color: red;
+	background-color: orange;
 }
 
 #LinkBtn {
@@ -33,14 +33,14 @@
 	height: 50px;
 	width: 110px;
 	font-size: 25px;
-	color: red;
+	color: orange;
 	background-color: transparent;
-	border-color: red;
+	border-color: transparent;
 }
 
 #LinkBtn:hover {
 	color: white;
-	background-color: red;
+	background-color: orange;
 }
 
 #Header_Buttons {
@@ -51,13 +51,14 @@
 #Title {
 	font-family: sans-serif;
 	margin: 0px 0px 0px 600px;
+	color: orange;
 }
 
 #Change {
 	font-size: 100px;
-	color: orange;
+	color: white;
 	position: center;
-	background-color: white;
+	background-color: orange;
 	margin: 400px auto auto 440px;
 }
 
